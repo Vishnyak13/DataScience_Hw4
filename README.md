@@ -1,2 +1,4 @@
 # DataScience_Hw4
-SciPy
+## SciPy
+- Частина перша
+- Частина друга
